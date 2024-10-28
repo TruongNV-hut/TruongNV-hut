@@ -15,10 +15,10 @@
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TruongNV-hut&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
 
-<a href="TruongNV-hut/AIcandy_LSTM_Stock_iiyiedys/">
+<a href="https://github.com/TruongNV-hut/AIcandy_LSTM_Stock_iiyiedys/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TruongNV-hut&repo=AIcandy_LSTM_Stock_iiyiedys&theme=tokyonight" />
 </a>    
-<a href="TruongNV-hut/AIcandy_DQN_FlappyBird_xcrtkuqo/">
+<a href="https://github.com/TruongNV-hut/AIcandy_DQN_FlappyBird_xcrtkuqo/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TruongNV-hut&repo=AIcandy_DQN_FlappyBird_xcrtkuqo&theme=tokyonight" />
 </a>
 
