@@ -6,6 +6,8 @@
 
 💻 My projects mainly revolve around Machine Learning and real-world AI applications. I hope these insights will be helpful for you on your journey to explore AI.
 
+🌐 [My website: AIcandy.vn](https://aicandy.vn/)
+
 🌱 Let’s connect and grow together!
 
 
