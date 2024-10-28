@@ -39,7 +39,7 @@
 <a href="https://github.com/TruongNV-hut/AI_U_P_Cl_YOLO5_ObjectDetection_usgmsdsh/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TruongNV-hut&repo=AI_U_P_Cl_YOLO5_ObjectDetection_usgmsdsh&theme=tokyonight" />
 </a>    
-<a href="https://github.com/TruongNV-hut/AI_U_P_Cl_YOLO8_ObjectDetection_cgyettix /">
+<a href="https://github.com/TruongNV-hut/AI_U_P_Cl_YOLO8_ObjectDetection_cgyettix/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TruongNV-hut&repo=AI_U_P_Cl_YOLO8_ObjectDetection_cgyettix&theme=tokyonight" />
 </a>
 
