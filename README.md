@@ -1,14 +1,21 @@
 ## Hello! I'm Truong Nguyen 👋 
 
+<div align="justify">
+
 💡 I'm a researcher and developer in Artificial Intelligence (AI). I’m passionate about exploring AI applications and constantly strive to expand my knowledge and skills in this field.
 
 🎓 With the goal of sharing my lessons and experiences, I hope to support AI enthusiasts in learning and building careers in this advanced technology field.
 
 💻 My projects mainly revolve around Machine Learning and real-world AI applications. I hope these insights will be helpful for you on your journey to explore AI.
 
-🌐 [My website: AIcandy.vn](https://aicandy.vn/)
+🌐 My website: [AIcandy.vn](https://aicandy.vn/)
+
+💳 Donate: [paypal.me/truong6879](https://paypal.me/truong6879)
 
 🌱 Let’s connect and grow together!
+
+</div>
+
 
 
 
